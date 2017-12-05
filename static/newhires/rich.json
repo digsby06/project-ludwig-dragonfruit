@@ -1,0 +1,30 @@
+[
+  {
+    "EENAME": "BRANDY CHORMANN",
+    "Position": "Administrative Assistant",
+    "Lastname": "CHORMANN",
+    "Employee_Code": "10100205",
+    "HireDate": "2017-11-13T00:00:00"
+  },
+  {
+    "EENAME": "DIEGO OSSIO",
+    "Position": "Processor I",
+    "Lastname": "OSSIO",
+    "Employee_Code": "10100143",
+    "HireDate": "2017-11-13T00:00:00"
+  },
+  {
+    "EENAME": "TRACY RANDALL",
+    "Position": "Processor I",
+    "Lastname": "RANDALL",
+    "Employee_Code": "10100140",
+    "HireDate": "2017-11-13T00:00:00"
+  },
+  {
+    "EENAME": "JAZMIN SWANN",
+    "Position": "Processor I",
+    "Lastname": "SWANN",
+    "Employee_Code": "10100134",
+    "HireDate": "2017-11-13T00:00:00"
+  }
+]

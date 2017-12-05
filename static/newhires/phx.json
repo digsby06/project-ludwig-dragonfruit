@@ -1,0 +1,37 @@
+[
+  {
+    "EENAME": "HALEY GLINZ",
+    "Position": "Conversion",
+    "Lastname": "GLINZ",
+    "Employee_Code": "20009147",
+    "HireDate": "2017-10-03T00:00:00"
+  },
+  {
+    "EENAME": "LAWRENCE RICHARDSON",
+    "Position": "QC Underwriter",
+    "Lastname": "RICHARDSON",
+    "Employee_Code": "10009137",
+    "HireDate": "2017-10-02T00:00:00"
+  },
+  {
+    "EENAME": "ADELE VEAL",
+    "Position": "Receptionist",
+    "Lastname": "VEAL",
+    "Employee_Code": "10100185",
+    "HireDate": "2017-11-07T00:00:00"
+  },
+  {
+    "EENAME": "LUCAS JENG",
+    "Position": "Recruiter",
+    "Lastname": "JENG",
+    "Employee_Code": "10009156",
+    "HireDate": "2017-10-12T00:00:00"
+  },
+  {
+    "EENAME": "AISHA RICHARDSON",
+    "Position": "Recruiter",
+    "Lastname": "RICHARDSON",
+    "Employee_Code": "10100057",
+    "HireDate": "2017-10-16T00:00:00"
+  }
+]
